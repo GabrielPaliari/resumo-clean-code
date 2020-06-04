@@ -26,7 +26,7 @@ Cobrança Excessiva -> Código ruim -> Diminui a produtividade -> Mais cobrança
 
 Esse ciclo é mais comum do que gostaríamos na nossa área, e muitas empresas de tecnologia acabam falindo por não entenderem a importância de um código bem escrito. O que ocorre é que com o tempo a produtividade tende a zero, porque cada mudança se torna muito custosa e geralmente faz surgir outros bugs, o que torna o desenvolvimento muito lento, não importando a quantidade  de pessoas trabalhando no projeto.
 
-![image-20200603060749623](/home/gabriel/.config/Typora/typora-user-images/image-20200603060749623.png)
+![](/images/grafico-produtividade.png)
 
 O que muitas vezes se faz para tentar solucionar é fazer um projeto novo do zero que tenha as mesmas funcionalidades. No entanto o sistema antigo deve continuar funcionando enquanto o novo é desenvolvido. E se a equipe não tomar cuidado, o novo projeto pode ter de ser redesenhado antes mesmo de substituir o antigo.
 
